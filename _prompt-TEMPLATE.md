@@ -16,4 +16,9 @@
 I want you to act as a prompt engineer...
 ```
 
-> ⚠️ Source and Prompt sections are mandatory
+## Usage examples
+```
+Follow up prompt example
+```
+
+> ⚠️ Source and Prompt sections are mandatory (delete this)
